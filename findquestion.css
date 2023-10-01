@@ -1,0 +1,101 @@
+.h{
+    background-color: black;
+    height: 3px;
+}
+
+.filter{
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    padding: 4px 10px;
+    background-color:cadetblue;
+    color: white;
+    font:bold;
+}
+
+.box {
+    display: block;
+    width: 1450px;
+    height: 250px;
+    border: 1px solid black;
+    margin: auto;
+    border-radius: 10px;
+    
+}
+
+.outer-container {
+    background-color: #f0f0f0; 
+    padding: 20px;
+  }
+.t1 {
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 5px;
+}
+
+.t1 input[type="text"] {
+
+    padding: 5px;
+    border-radius: 4px;
+    outline: none;
+    font-size: 14px;
+    width: 1425px;
+  
+}
+
+.tag1 {
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 5px;
+}
+
+.tag1 input[type="text"] {
+
+    padding: 5px;
+    border-radius: 4px;
+    outline: none;
+    font-size: 14px;
+    width: 1425px;
+}
+
+.fil button{
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    padding: 4px 10px;
+    color: white;
+    font:bold;
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 1340px;
+    width: 100px;
+    background-color:grey;
+
+}
+.list{
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    padding: 2px 2px;
+    background-color:cadetblue;
+    color: white;
+    font:bold;
+}
+
+.alter{
+    display: flex;
+  justify-content: center; /* Horizontal centering */
+  align-items: center;
+}
+
+.buttons{
+    display: flex;
+    justify-content: center; /* Horizontal centering */
+    align-items: center;
+
+}
+
+.color{
+    background-color:cadetblue;
+    height: 5px;
+}
